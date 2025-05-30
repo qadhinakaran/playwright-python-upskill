@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+
+# PyCharm project settings
+.idea/
+
+# Test result files
+*.log
+*.tmp
+*.out
+
+# Playwright specific
+playwright-report/
+test-results/
+trace.zip
+
+# OS generated files
+.DS_Store
+Thumbs.db
