@@ -1,0 +1,4 @@
+int - holds integers of non-limited length
+long - holds long integers [Exist in python 2.x and deprecated in 3.x]
+float - holds floating precision numbers and its accurate upto 15 decimal places
+complex - hold complex numbers
