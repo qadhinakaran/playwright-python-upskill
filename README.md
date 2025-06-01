@@ -6,10 +6,22 @@ This repository tracks my learning and practice while upskilling in **Playwright
 
 ## 📅 Weekly Progress
 
-### ✅ Week 1: Basics
-- Installed Playwright and Python environment
-- Launched browser and opened pages
-- Wrote first test case with assertions
+📘 Week 1: Python & Playwright Fundamentals
+✅ What I Learned
+✔️ Set up the Python development environment and installed Playwright
+✔️ Launched browser instances and navigated to web pages using Playwright
+✔️ Wrote and executed the first test script with basic assertions
+📂 Python Practice Topics
+✅ Basic Data Types & Operations
+✅ Control Flow
+if conditions
+for and while loops
+✅ Collections
+Lists, Tuples, and Dictionaries
+✅ Functions & Classes
+Function definitions and parameterization
+OOP concepts: Classes, Objects, Constructors
+Inheritance and method overriding
 
 ---
 
