@@ -6,37 +6,39 @@ This repository tracks my learning and practice while upskilling in **Playwright
 
 ## 📅 Weekly Progress
 
-📘 Week 1: Python & Playwright Fundamentals
-✅ What I Learned
-✔️ Set up the Python development environment and installed Playwright
-✔️ Launched browser instances and navigated to web pages using Playwright
-✔️ Wrote and executed the first test script with basic assertions
-📂 Python Practice Topics
-✅ Basic Data Types & Operations
-✅ Control Flow
-if conditions
-for and while loops
-✅ Collections
-Lists, Tuples, and Dictionaries
-✅ Functions & Classes
-Function definitions and parameterization
-OOP concepts: Classes, Objects, Constructors
-Inheritance and method overriding
+### 🔷 Week 1: Python & Playwright Fundamentals
+📅 **What I Learned**
+* ✅ Set up the Python development environment and installed Playwright
+* ✅ Launched browser instances and navigated to web pages using Playwright
+* ✅ Wrote and executed the first test script with basic assertions
+
+📁 **Python Practice Topics**
+* ✅ Basic Data Types & Operations
+* ✅ Control Flow: `if` conditions, `for` and `while` loops
+* ✅ Collections: Lists, Tuples, and Dictionaries
+* ✅ Functions & Classes: Function definitions and parameterization
+* ✅ OOP Concepts: Classes, Objects, Constructors, Inheritance, and Method Overriding
+
 
 ---
 
 ## 📁 Repository Structure
+
+```
 playwright-python-upskill/
-├── Week1_Basics/
-│ ├── browser_launch.py
-│ └── first_test.py
+├──Python Basics
+|  └──Week1_Basics/
+│     ├── browser_launch.py
+│     └── first_test.py
 │
-├── Week2_Fixtures/
-│ ├── conftest.py
-│ └── test_with_fixtures.py
+|  └──Week2_Fixtures/
+│       ├── conftest.py
+│       └── test_with_fixtures.py
 │
 ├── README.md
 └── .gitignore
+```
+
 
 ---
 
