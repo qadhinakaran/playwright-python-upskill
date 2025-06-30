@@ -34,6 +34,17 @@ This repository tracks my learning and practice while upskilling in **Playwright
 * ✅ Looping through lists (including lists returned by readlines())
 * ✅ Writing to files and verifying output by reading back
 
+### 🔷 Week 3: Pytest Fixtures
+📅 **What I Learned**
+* ✅ What are pytest fixtures and how they help in tests
+* ✅ Fixture scopes: function, class, module, session
+* ✅ Setup and teardown using yield in fixtures
+
+📁 **Practice Topics**
+* ✅ Reusability in tests using fixtures
+* ✅ Scoping strategies in pytest
+* ✅ Resource management with yield-based teardown
+
 ---
 
 ## 📁 Repository Structure
