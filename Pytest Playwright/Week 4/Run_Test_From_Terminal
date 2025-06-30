@@ -1,0 +1,16 @@
+Run one particular test file
+    pytest test_filename.py
+
+Run one particular function in one test file
+    pytest test_filename::test_functionname
+
+For seeing logs
+    pytest test_filename.py -s
+    pytest test_filename::test_functionname -s
+
+For skip any test function
+Syntax:- @pytest.mark.skip
+
+For executing group of functions
+Syntax:- @pytest.mark.smoke   (smoke -> Tag name)
+While Compiling:- Pytest -m smoke
